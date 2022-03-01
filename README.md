@@ -24,5 +24,5 @@ To get a local copy up and running follow these simple steps.
 2. Set your application token in the `config.json`
 3. Running The bot
    ```sh
-    $ npm run start
+    $ node index.js
    ```
